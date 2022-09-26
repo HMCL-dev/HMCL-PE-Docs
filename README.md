@@ -38,6 +38,7 @@ Add an object to target category item like this:
 {
     "title": "Example", // Whole title of the passage.
     "subtitle": "Example", // Subtitle of the passage.
+    "author": "Tungsten", //Your name.
     "path": "/_<category>/<title>.md" // Path of the passage.
 }
 ```
