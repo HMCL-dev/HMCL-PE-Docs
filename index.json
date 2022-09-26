@@ -32,7 +32,11 @@
     {
         "category": "Docs",
         "item": [
-
+            {
+                "title": "Contribute for HMCL-PE documentation",
+                "subtitle": "How to write a documentation",
+                "path": "/_docs/contribution.md"
+            }
         ]
     }
 ]
