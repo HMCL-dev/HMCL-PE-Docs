@@ -1,6 +1,6 @@
 # Contribute for HMCL-PE documentation
 
-## By Tungsten
+### By Tungsten
 
 ## How to upload a documentation
 
