@@ -1,4 +1,5 @@
 # HMCL-PE-Docs
+
 Documentations for HMCL-PE
 
 You can submit a Pull Request to this repository to contribute.
@@ -29,3 +30,15 @@ Not to modify the content of other articles in a PR that adds a new article.
 ### Modify an existing article
 
 Please make sure that your PR modifies only one article, and attribute in that article.
+
+### Update index.json
+
+Add an object to target category item like this:
+```
+{
+    "title": "Example", // Whole title of the passage.
+    "subtitle": "Example", // Subtitle of the passage.
+    "path": "/_<category>/<title>.md" // Path of the passage.
+}
+```
+So we can display the passage on our website.
