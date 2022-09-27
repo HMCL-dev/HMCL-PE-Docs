@@ -8,7 +8,7 @@ HMCL-PE is a Minecraft java edition launcher for Android device. Always remember
 
 We are trying to bring its UI and features to Android, this will take much time and it still not finished yet.
 
-[MainScreen](/assets/img/docs/introduction/main.jpg)
+![MainScreen](/assets/img/docs/introduction/main.jpg)
 
 ## What can HMCL-PE do
 
