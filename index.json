@@ -35,13 +35,13 @@
         ]
     },
     {
-        "category": "Docs",
+        "category": "About",
         "item": [
             {
                 "title": "Contribute for HMCL-PE documentation",
                 "subtitle": "How to write a documentation",
                 "author": "Tungsten",
-                "path": "/_docs/contribution.md"
+                "path": "/_about/contribution.md"
             }
         ]
     }
