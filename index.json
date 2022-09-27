@@ -2,7 +2,12 @@
     {
         "category": "Launcher",
         "item": [
-
+            {
+                "title": "Introduction",
+                "subtitle": "About the launcher",
+                "author": "Tungsten",
+                "path": "/_launcher/introduction.md"
+            }
         ]
     },
     {
