@@ -4,7 +4,7 @@
         "item": [
             {
                 "title": "Introduction",
-                "subtitle": "About the launcher",
+                "subtitle": "About the launcher.",
                 "author": "Tungsten",
                 "path": "/_launcher/introduction.md"
             }
@@ -39,9 +39,15 @@
         "item": [
             {
                 "title": "Contribute for HMCL-PE documentation",
-                "subtitle": "How to write a documentation",
+                "subtitle": "How to write a documentation.",
                 "author": "Tungsten",
                 "path": "/_about/contribution.md"
+            },
+            {
+                "title": "How to compile",
+                "subtitle": "How to compile HMCL-PE.",
+                "author": "Tungsten",
+                "path": "/_about/compilation.md"
             }
         ]
     }
