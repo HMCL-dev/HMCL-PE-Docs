@@ -15,11 +15,11 @@ If your doc contains images, please place your images at
 assets/img/docs/<article>/<image>.img
 ```
 
-<category> means your article category, such as **launcher**, **modpack**.
+`<category>` means your article category, such as **launcher**, **modpack**.
 
-<article> is your article name.
+`<article>` is your article name.
 
-<image> is the image you are using in your article.
+`<image>` is the image you are using in your article.
 
 ### Add new article
 
