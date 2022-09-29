@@ -12,7 +12,7 @@ _<category>/<article>.md
 ```
 If your doc contains images, please place your images at
 ```
-assets/img/docs/<article>/<image>.img
+assets/img/docs/<article>/<image>
 ```
 
 <category> means your article category, such as **launcher**, **modpack**.
