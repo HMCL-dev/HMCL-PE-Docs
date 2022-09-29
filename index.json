@@ -19,7 +19,12 @@
     {
         "category": "Multiplayer",
         "item": [
-
+            {
+                "title": "Multiplayer Instructions",
+                "subtitle": "How to play with your friends without a private server.",
+                "author": "Tungsten",
+                "path": "/_multiplayer/multiplayer.md"
+            }
         ]
     },
     {
