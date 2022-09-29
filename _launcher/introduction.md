@@ -49,7 +49,11 @@ Clone the remote repository using the following URL:
 https://github.com/Tungstend/HMCL-PE
 ```
 Run the ```link.bat``` file to do a build configuration.
+
+If you are compiling HMCL-PE-CN, you need some other preparation:
+
 Apply for QQ API and change API key in MainActivity.java.
+
 After that, Compile using Gradle by Android Studio.
 
 <h1 align="center">License</h1>
